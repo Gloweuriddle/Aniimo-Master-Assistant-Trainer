@@ -1,5 +1,15 @@
 # 🐉 Aniimo — Master Assistant & Trainer Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=600&color=7DF9FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=DISCOVER+IDYLL+%E2%80%A2+TAME+THE+WILD;TWINE+WITH+200%2B+ANIIMO+%E2%80%A2+MASTER+EVERY+BIOME;CAPTURE+%E2%80%A2+BOND+%E2%80%A2+EVOLVE+%E2%80%A2+BECOME+THE+ANIIMO" alt="Aniimo Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Aniimo Twining Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1600&pause=400&color=7DF9FF&center=true&vCenter=true&width=700&lines=SCANNING+IDYLL+BIOMES;ANIIMO+DETECTED+%E2%80%A2+200%2B+SPECIES;TWINING+SYSTEM+ONLINE" alt="Idyll Scanner Status" />
+</p>
 <p align="center">
   <b>Discover Idyll | Tame the Wild | Become the Aniimo</b>
 </p>
